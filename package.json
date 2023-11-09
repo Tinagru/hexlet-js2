@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Tinagru/hexlet-js2/issues"
   },
-  "homepage": "https://github.com/Tinagru/hexlet-js2#readme"
+  "homepage": "https://github.com/Tinagru/hexlet-js2#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
